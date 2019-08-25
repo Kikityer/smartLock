@@ -1,0 +1,3 @@
+2018-12-19 10:56:57.800 logback [main] INFO  com.ahu.lock.LockApplication - Starting LockApplication on DESKTOP-FABLG4D with PID 10504 (E:\study\javaProject\LockVersion1\target\classes started by HDH in E:\study\javaProject\LockVersion1)
+2018-12-19 10:56:57.892 logback [main] INFO  com.ahu.lock.LockApplication - The following profiles are active: dev
+2018-12-19 10:56:58.038 logback [main] INFO  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@2e005c4b: startup date [Wed Dec 19 10:56:58 CST 2018]; root of context hierarchy
